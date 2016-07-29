@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "579ad57222dd8a301f5d0c48",
+    "Titre": "Achat",
+    "Categorie": "Déchets, matières",
+    "Localisation": "Fes",
+    "Description": "Nous achetons la ferraille électroniques (ordinateurs / TV / téléphone / .....) et la quantité en kilo "
+  },
+  {
+    "_id": "579ad97a5eaeb0101fa8d246",
+    "Titre": "bbbbbbb",
+    "Categorie": "8",
+    "Localisation": "8",
+    "Description": "8"
+  },
+  {
+    "_id": "579ba18542d03c741f3a41ff",
+    "Type": "cvbn",
+    "Titre": "jhjh",
+    "Categorie": "jhjhj",
+    "Localisation": "jhjjhjh",
+    "Description": "jhjhjhj"
+  }
+]
